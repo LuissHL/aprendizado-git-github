@@ -1,0 +1,11 @@
+
+
+ Para sincronizarmos qualquer projeto no git ao github, primeiro clonamos a origem do projeto que tem no github no git, colocamos git clone e o link de origem.
+Depois de termos feito algum projeto no git, se quisermos enviar pro github usamos o git push, usando esse comando o código sobe pro github,
+mas precisamos especificar onde queremos que o código fique, então pra enviar usamos o git push origin (e a branch que queremos que esteja o código),
+origin - referência a origem que vamos mandar o código que foi o link que colocamos do github.
+ 
+ Agora se fizermos qualquer alteração no github e quisermos atualizar essa mudança no git também, usamos o git pull, pull significa puxar,
+ vamos puxar o código pro git, no caso segue o mesmo padrão git pull origin main(por exemplo)
+
+  
