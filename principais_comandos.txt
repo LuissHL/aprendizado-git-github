@@ -1,0 +1,24 @@
+Estes são comandos Git comuns usados em várias situações:
+
+git init - Cria um repositório Git vazio ou reinicia um existente
+git add - adiciona o arquivo para a área de seleção
+git commit - registra alterações no repósitorio
+git merge - junta uma branch com outra
+git clone - clona o repositório a um novo diretório
+git log - Mostra o historico de commits
+git diff - Mostra alterações entre commits, commit, etc
+git status - Mostra o status da árvore de trabalho 
+git branch - lista, cria ou deleta branches
+git reset - Redefine o HEAD atual para o estado especificado
+git pull - Busca e integra com outro repositório ou uma ramificação local, puxa o conteúdo que está no github para o git
+git push - Atualiza as referências remotas junto com os objetos associados,basicamente, empurra o conteúdo do git para o github
+git fetch - Baixa objetos e referências de outro repositório
+git tag - Cria, lista, exclue ou verifica um objeto de tag assinado com GPG
+git switch - troca branches
+git rebase - Reaplica commits em cima de outra ponta base 
+git show - Mostra vários tipos de objetos  
+git grep -  Imprime linhas que correspondem a um padrão
+git  restore - Restaura arquivos da árvore de trabalho
+git mv - Move ou renomeia um arquivo, um diretório ou um link simbólico
+git rm - Remove arquivos da árvore de trabalho e do índice
+git bisect - Utilizar a pesquisa binária para encontrar o compromisso que introduziu um erro
