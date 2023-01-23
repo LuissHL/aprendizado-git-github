@@ -1,0 +1,14 @@
+Durante o curso eu aprendi como utilizar o git, como criar e editar arquivos com ele...aprendi os principais comandos.
+entendi o ciclo de vida dos arquivos, a como colocar o projeto pra staged e a fazer o commit desse projeto.
+
+conseguir fixar bem sobre o que são as branchs e como utilizar elas em um projeto de verdade e 
+também aprendi a dar o merge para juntar essas branchs
+
+aprendi a desfazer alterações, alterar um arquivo depois de já termos dado o commit, qualquer coisa que eu me arrependa de colocar em stage. Ou se quiséssemos juntar dois commits e formar um só commit.
+e junto com esse aprendizado, entendi também a como fazer com que um arquivo seja ignorado com o .gitignore
+
+aprendi a visualizar as diferenças entre o projeto com as alterações atuais com as alterações passadas 
+e a rodar o git log para ver o histórico dos commits que fiz durante o projeto inteiro.
+
+e o mais importante de tudo, aprendi a como criar um repositório no github, a clonar esse repositório para um arquivo, sincronizar as mudanças no git com o
+github e vice-versa.
