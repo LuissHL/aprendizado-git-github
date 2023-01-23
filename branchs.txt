@@ -1,0 +1,5 @@
+Bem, o que eu aprendi sobre branches?
+Branches são rumos, rumos a partir de uma única branch chamada de main(a principal)
+Imagine que você está desenvolvendo um projeto, esse projeto pode ser dividido em várias branches(partes),
+Outras pessoas podem pegar essas partes, por exemplo a navbar do projeto, modificar a navbar,
+ depois podemos juntar essa branch ao nosso projeto principal
